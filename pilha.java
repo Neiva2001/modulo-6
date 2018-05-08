@@ -53,7 +53,7 @@ public class NewClass {
             }
         }
 
-        public static void main(String args[]) {
+        public void main(String args[]) {
             Pilha p = new Pilha();
             p.empilhar("Portuguesa ");
             p.empilhar("Frango com catupiry ");
